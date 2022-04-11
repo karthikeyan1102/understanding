@@ -6,3 +6,6 @@ def login():
 
 def logout():
     pass
+    pass
+def username():
+    pass
